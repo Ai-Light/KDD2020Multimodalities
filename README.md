@@ -16,7 +16,7 @@ https://github.com/google-research/bert `BERT-Base, Uncased`
 
 运行顺序
 
-1.preprocess.py 
+1.preprocess.py(只读了1w的数据,要读取更多数据,谨慎修改函数`pd.read_csv`的参数，有大内存机器的忽略)
 
 2.[image-concat-query]-wwm_uncased_L12-768_v3_quart.ipynb
 
