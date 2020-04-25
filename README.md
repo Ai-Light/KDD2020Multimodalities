@@ -13,6 +13,10 @@ https://github.com/google-research/bert `BERT-Base, Uncased`
 
 
 数据全部存放在data目录下
+
 运行顺序
+
 1.preprocess.py 
+
 2.[image-concat-query]-wwm_uncased_L12-768_v3_quart.ipynb
+
