@@ -20,3 +20,12 @@ https://github.com/google-research/bert `BERT-Base, Uncased`
 
 2.[image-concat-query]-wwm_uncased_L12-768_v3_quart.ipynb
 
+环境和依赖
+
+python 3.7
+
+tensorflow==1.13.1
+
+Keras==2.2.4
+
+keras-bert==0.78.0
