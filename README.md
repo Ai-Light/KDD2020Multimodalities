@@ -1,7 +1,8 @@
 # KDD2020Multimodalities
 KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall
 
-Baseline Score: 0.5538
+Baseline Score: 0.5538(使用四分之一数据) | 0.599(使用一半的数据)
+
 
 方案详解：https://zhuanlan.zhihu.com/p/135984016 
 
